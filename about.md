@@ -26,6 +26,6 @@ layout: page
 <ul>
 	<li><a href="https://github.com/robertoduessmann/weather-api">Weather API</a></li>
 	<li><a href="https://github.com/robertoduessmann/inventory">Inventory API</a></li>
-	<li><a href="https://github.com/robertoduessmann/churrascometro">Churrascometr</a></li>
+	<li><a href="https://github.com/robertoduessmann/churrascometro">Churrascometro</a></li>
 	<li><a href="https://github.com/robertoduessmann/polling">Polling tool</a></li>
 </ul>
